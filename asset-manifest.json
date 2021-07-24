@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bits21/static/css/main.f62eef56.chunk.css",
+    "main.js": "/bits21/static/js/main.13b97913.chunk.js",
+    "main.js.map": "/bits21/static/js/main.13b97913.chunk.js.map",
+    "runtime-main.js": "/bits21/static/js/runtime-main.f4a16c51.js",
+    "runtime-main.js.map": "/bits21/static/js/runtime-main.f4a16c51.js.map",
+    "static/css/2.ec02d681.chunk.css": "/bits21/static/css/2.ec02d681.chunk.css",
+    "static/js/2.030cf7d9.chunk.js": "/bits21/static/js/2.030cf7d9.chunk.js",
+    "static/js/2.030cf7d9.chunk.js.map": "/bits21/static/js/2.030cf7d9.chunk.js.map",
+    "index.html": "/bits21/index.html",
+    "static/css/2.ec02d681.chunk.css.map": "/bits21/static/css/2.ec02d681.chunk.css.map",
+    "static/css/main.f62eef56.chunk.css.map": "/bits21/static/css/main.f62eef56.chunk.css.map",
+    "static/js/2.030cf7d9.chunk.js.LICENSE.txt": "/bits21/static/js/2.030cf7d9.chunk.js.LICENSE.txt",
+    "static/media/BITS-logo-w.59fbe9bb.gif": "/bits21/static/media/BITS-logo-w.59fbe9bb.gif",
+    "static/media/App.css": "/bits21/static/media/bg.9e4a8d90.svg",
+    "static/media/hero.13cb35b0.svg": "/bits21/static/media/hero.13cb35b0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4a16c51.js",
+    "static/css/2.ec02d681.chunk.css",
+    "static/js/2.030cf7d9.chunk.js",
+    "static/css/main.f62eef56.chunk.css",
+    "static/js/main.13b97913.chunk.js"
+  ]
+}
