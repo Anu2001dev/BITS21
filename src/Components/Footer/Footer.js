@@ -11,10 +11,11 @@ const Footer = () => {
           <div className="about">
             <span className="question">What is ACICT BITS?</span>
             <p className="answer">
-              ACICT BITS is for young anandians who wants to put thier skills to
-              test, compete and show thier abilities. most importantly, bits is
-              a community and a place to share what u know. learn what u didn’t
-              know before.
+              Ananda College Information and Communication Technology Sociey has
+              organized BITS for young anandians who wants to put thier skills
+              to test, compete and show thier abilities. most importantly, bits
+              is a community and a place to share what u know. learn what u
+              didn’t know before.
             </p>
           </div>
           <div className="footer-nav">
